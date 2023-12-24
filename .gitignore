@@ -1,6 +1,7 @@
 # executables
 *.o
 *.exe
+*.out
 chirp
 
 # vscode
