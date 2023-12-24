@@ -1,0 +1,8 @@
+# executables
+*.o
+*.exe
+chirp
+
+# vscode
+.vscode/
+
