@@ -1,0 +1,10 @@
+[ STRING, a ]
+[ INT, 20 ]
+[ ???,  ]
+[ STRING, b ]
+[ INT, 60 ]
+[ ???,  ]
+[ STRING, print ]
+[ STRING, a ]
+[ STRING, b ]
+[ ???, ; ]
